@@ -19,31 +19,22 @@ English - B1 (Intermediate)
 
 Ukrainian - Native
 
-Polish - A1 (Elementary)
-
 ## Tech Skills
 
-- Testing WEB / mobile applications
-- Test documentation 
-(test suites / test cases / check lists / bug reports)
-- Tracking systems: 
-Jira / Monday / TestRail / AzureDevOps
-- GitHub / GitLab
-- MSSQL / MySQL / PostgreSQL
-- Postman / Swagger(OpenApi)
-- Jmeter
+- Testing WEB/mobile applications
+- Test documentation (test suites / test cases / check lists / bug reports)
+- Tracking systems: Jira / Monday / TestRail / Azure DevOps
+- Android studio / XCode
+- Burp suite, Charles, Network Link Conditioner
+- GitLab / GitHub (basic knowledge of git)
+- Docker, Jenkins
+- Windows / Linux (Ubuntu)
+- Basic knowledge of Bash
+- MS SQL / MySQL / PostgreSQL
+- Postman / Swagger
 - Figma
-- Strong understanding of Software Development Life Cycle
-- Scrum / Kanban / Agile methodology
-- .Net (ASP.NetCore)
- (includes Entity Framework Core)
- (basic knowledge)
-- Angular
- (basic knowledge)
-- HTML5 / CSS / SASS
-- IDE:
- Visual Studio Code, Visual Studio, 
-IntelliJ IDEA
+- Basic knowledge of HTML / CSS
+- IDE: VSCode, Visual Studio, PyCharm
 - WordPress / Tilda / WIX
 - Photoshop
 <!---
